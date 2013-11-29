@@ -4,7 +4,7 @@ Our Purpose.
 
 Title : ADS-B Receiver Development
 
-H/W Base on Marsboard A20 or Beagle Bone Black + (1090MHz Receiver) DVB-T USB Stick (using RTL2832U)
+H/W Base on Marsboard A20 or Beagle Bone Black
 O/S Base on Linux.
 S/W Base on Ansi C Language.
 
@@ -13,8 +13,5 @@ Kick Off Date & Time : 2013. 11. 29. PM. 9:25 (UTC+9:00)
 
 
 =========================================================================================
-
-H/W Module
-   => 
   
 
